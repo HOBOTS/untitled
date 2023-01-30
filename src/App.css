@@ -1,5 +1,5 @@
 body {
-  background-color: #282c34;
+  background: -webkit-linear-gradient(90deg, #1e0d35,#0f101b);background: linear-gradient(90deg, #1e0d35,#0f101b);
   font-family: gothampro_medium;
 }
 .App {
